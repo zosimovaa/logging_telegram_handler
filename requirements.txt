@@ -1,0 +1,1 @@
+telegram-send @ git+https://bitbucket.org/zosimovaa/telegram_send.git
